@@ -1,0 +1,11 @@
+{
+  "name": "mb-reset",
+  "version": "1.0.0",
+  "description": "Minimal CSS resets for documents + applications in modern browsers.",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Born <me+code@mattborn.com>",
+  "license": "ISC"
+}
